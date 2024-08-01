@@ -2,7 +2,7 @@
 
 TensorFlowjs object detection example app made with react native
 
-Have Expo? Open the app from this link: https://expo.io/@geofreeman368/object-detection-with-tensorflow
+Open the app from this link: https://expo.io/@geofreeman368/object-detection-with-tensorflow
 
 ![into](https://user-images.githubusercontent.com/63067465/86029979-c8983600-ba2b-11ea-9613-a32101f43926.gif)
 ![Hnet-image](https://user-images.githubusercontent.com/63067465/86030681-b2d74080-ba2c-11ea-92af-a11e22a7049d.gif)
